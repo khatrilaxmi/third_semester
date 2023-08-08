@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.content {
+    margin: 20px auto;
+    width: 80%;
+}
+
+.student-details {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.student-details h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.student-details p {
+    margin: 8px 0;
+}
+
+.student-details img {
+    max-width: 200px;
+    display: block;
+    margin: 20px auto;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
